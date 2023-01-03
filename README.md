@@ -9,3 +9,11 @@ pip install -e .
 
 3.) 
 conda create --name <env> --file requirements.txt
+
+## Downloading & Preparing the Muscles in Action (MIA) Dataset 
+
+## Reproducing Quantitative Results with Pretrained Models
+
+## Visualizing Results with Pretrained Models
+
+## Training from Scratch
