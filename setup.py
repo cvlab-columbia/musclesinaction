@@ -10,14 +10,14 @@ version = SourceFileLoader(name + '.version', name + '/version.py').load_module(
 setup(
    name=name,
    version=version.version,
-   description='<Enter short description here>',
-   author='<Enter your name(s) here>',
-   author_email='<Enter your email(s) here>',
+   description='Package for Muscles in Action',
+   author='Mia Chiquier, Carl Vondrick',
+   author_email='mac2500@columbia.edu',
    url='TBD',
    packages=[name],
    long_description=long_description,
    long_description_content_type='text/markdown',
-   keywords='<Enter keywords here separated by spaces>',
+   keywords='musclesinaction',
    license='',
    install_requires=[],
 )
