@@ -1,5 +1,8 @@
-# pytorch-template
+# Official Code for Muscles in Action
 
-My personal starting point for a computer vision deep learning project.
+# Environment Configuration
 
+1.) Create a conda environment
+
+2.) 
 pip install -e .
