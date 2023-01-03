@@ -1,6 +1,6 @@
-# Official Code for Muscles in Action
+# Muscles in Action
 
-# Environment Configuration
+## Environment Configuration
 
 1.) Create a conda environment
 
